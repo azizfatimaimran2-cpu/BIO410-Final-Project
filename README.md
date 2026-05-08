@@ -8,7 +8,7 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
 
 ## Methods
 -The sequencing reads came from Next Gen Seq. The raw sequencing reads are in the .fq files 
-- Assembled the sequence using MEGAHIT which are found in the folder 
+- Assembled the sequence using MEGAHIT, which is found in the folder final.contig.fa 
 - Aligned the sequence using a package DECIPHER 
 - Then, created a phylogenetic tree using the ML method in the R package DECIPHER
 - For each source of data, state which files/folders in the repository correspond to those data (fro exampe the reads are in blank [some folder],  and the raw sequencing reads are in ________ [some folder (this is the one named with your name)]
