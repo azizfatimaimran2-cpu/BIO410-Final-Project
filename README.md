@@ -15,7 +15,7 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
 
 ## Results
 Here is the Phylogenetic tree 
-![phylogenetic tree](image.jpg)
+![alt text](phylogenetic tree)
 
 Explain
 - Which samples are closely related to each other
