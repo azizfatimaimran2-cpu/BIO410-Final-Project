@@ -1,7 +1,7 @@
 # BIO410-Final-Project
 
 ## Background
-The data consist of 6 samples from the Zaire Ebolavirus. This organism is a type of virus that is involved in causing fatal hemorrhagic fever in humans and mammals [https://pubmed.ncbi.nlm.nih.gov/37355146/]. 
+The data consist of 6 samples from the Zaire Ebolavirus. This virus is a type of virus that causes fatal hemorrhagic fever in humans and mammals [https://pubmed.ncbi.nlm.nih.gov/37355146/]. It is a negative-sense, single-stranded RNA virus and includes six species. The Ebola virus was first discovered in 1976 and has been involved in major outbreaks in West Africa (https://pmc.ncbi.nlm.nih.gov/articles/PMC7993122/). 
 
 ## Purpose
 The purpose of this project was to construct a phylogenetic tree from 6 Zaire ebolavirus samples to determine the evolutionary relationships among them.
