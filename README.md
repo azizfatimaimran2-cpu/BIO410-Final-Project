@@ -4,7 +4,7 @@
 The data consist of 6 samples from the Zaire Ebolavirus. This organism is a type of virus that is involved in causing fatal hemorrhagic fever in humans and mammals [https://pubmed.ncbi.nlm.nih.gov/37355146/]. 
 
 ## Purpose
-The purpose of this project was to create a phylogenetic tree from 6 samples of Zaire Ebolavirus, in order to determine the evolutionary relationship between the different samples.
+The purpose of this project was to construct a phylogenetic tree from 6 Zaire ebolavirus samples to determine the evolutionary relationships among them.
 
 ## Methods
 -The sequencing reads came from Next Gen Seq. The raw sequencing reads are in the .fq files 
@@ -17,7 +17,6 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
 Here is the Phylogenetic tree 
 ![alt text](Screenshot 2026-05-01 152116.png)
 
-
 Explain
 - Which samples are closely related to each other
-- How many individuals did these 6 examples come from based on the phylogenetic tree 
+- How many individuals did these 6 examples come from, based on the phylogenetic tree 
