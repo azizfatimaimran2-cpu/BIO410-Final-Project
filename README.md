@@ -17,8 +17,7 @@ The purpose of this project was to construct a phylogenetic tree from 6 Zaire eb
 Here is the Phylogenetic tree 
 ![alt text](Screenshot 2026-05-01 152116.png)
 
-(The following figure shows the evolutionary relationship between the different sample of Ebola Virus). 
+(The following figure shows the evolutionary relationship between the different samples of Ebola Virus). 
 
-Explain
-- Which samples are closely related to each other
-- How many individuals did these 6 examples come from, based on the phylogenetic tree 
+From the results, samples 2 and 4 appear to be more closely related. While the samples 1,6,3, and 5 appear closely related because they cluster together in a single region 
+Based on the phylogenetic tree, the examples came from  six different patient samples because each sample is represented with a different node. 
