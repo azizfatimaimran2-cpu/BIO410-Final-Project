@@ -19,5 +19,5 @@ Here is the Phylogenetic tree
 
 (The following figure shows the evolutionary relationship between the different samples of Ebola Virus). 
 
-From the results, samples 2 and 4 appear to be more closely related. While the samples 1,6,3, and 5 appear closely related because they cluster together in a single region 
+From the results, samples 2 and 4 appear to be more closely related. Samples 1, 6, 3, and 5 appear closely related because they cluster in a single region. 
 Based on the phylogenetic tree, the examples came from  six different patient samples because each sample is represented with a different node. 
