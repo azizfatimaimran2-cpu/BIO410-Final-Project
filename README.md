@@ -8,7 +8,7 @@ The purpose of this project was to construct a phylogenetic tree from 6 Zaire eb
 
 ## Methods
 -The sequencing reads came from Next Gen Seq. The raw sequencing reads are in the .fq files 
-- Assembled the sequence using MEGAHIT, which is found in the folder final.contig.fa 
+- Assembled the sequence using MEGAHIT, which is found in the folder final.contig.fa (https://github.com/voutcn/megahit)
 - Aligned the sequence using the package DECIPHER. The sequence is found in the .html file. 
 - Then, created a phylogenetic tree using the ML method in the R package DECIPHER
 - Used BLASTN to determine what organism the sequence came from. 
